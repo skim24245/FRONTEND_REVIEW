@@ -1,0 +1,48 @@
+.kbrNXI {
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    padding: 14px 20px;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    height: 52px;
+    background-color: rgb(255, 255, 255);
+    position: fixed;
+    left: 0px;
+    top: 0px;
+}
+
+
+/* form 각 박스   */
+
+.jGNBvY {
+    padding: 34px 0px;
+    width: 100%;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-direction: row;
+    display: flex;
+}
+
+
+/* 입력 창  */
+.form-group {
+    padding: 0px 0px 8px;
+    border-bottom: 1px solid rgb(170, 170, 170);
+    border-top-style: solid;
+    border-right-style: solid;
+    border-left-style: solid;
+    border-top-color: rgb(170, 170, 170);
+    border-right-color: rgb(170, 170, 170);
+    border-left-color: rgb(170, 170, 170);
+    flex-direction: row;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    display: flex;
+    flex: 1 1 0%;
+    position: relative;
+}
