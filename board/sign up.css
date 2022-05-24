@@ -1,0 +1,29 @@
+#btnJoin{
+    width:100px;
+    margin:auto;
+    display:block;
+}
+
+#goback{
+    width:100px;
+    margin:auto;
+    display:block;
+}
+
+.form-group{
+        text-align:center;
+}
+
+h2{
+    text-align: center;
+    /* align-items: center; */
+}
+
+.select{
+    margin: 0;
+    
+}
+/* 
+#main{
+    background: url(back.jpg) no-repeat;
+} */
